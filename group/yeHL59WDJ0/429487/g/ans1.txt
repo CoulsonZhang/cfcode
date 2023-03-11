@@ -1,0 +1,5 @@
+3 4
+9 5 11 2 
+algorithm icpc  programming ru
+contest   nwerc regional      
+eindhoven       reykjavik

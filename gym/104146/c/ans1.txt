@@ -1,0 +1,30 @@
+On the 1st day of Codemas, my computer gave to me,
+A syntax error on line three!
+On the 2nd day of Codemas, my computer gave to me,
+2 compiler warnings,
+And a syntax error on line three!
+On the 3rd day of Codemas, my computer gave to me,
+3 compiler warnings,
+2 compiler warnings,
+And a syntax error on line three!
+On the 4th day of Codemas, my computer gave to me,
+4 compiler warnings,
+3 compiler warnings,
+2 compiler warnings,
+And a syntax error on line three!
+On the 5th day of Codemas, my computer gave to me,
+FIVE! COMPILER! WARNINGS!!!
+4 compiler warnings,
+3 compiler warnings,
+2 compiler warnings,
+And a syntax error on line three!
+On the 6th day of Codemas, my computer gave to me,
+6 compiler warnings,
+FIVE! COMPILER! WARNINGS!!!
+4 compiler warnings,
+3 compiler warnings,
+2 compiler warnings,
+And a syntax error on line three!
+Codemas is already over!
+Codemas is already over!
+Codemas is already over!

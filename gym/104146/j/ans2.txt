@@ -1,0 +1,15 @@
+point: -8.00 4.00
+area: 20.00
+is rhombus: no
+is rectangle: no
+-------------------------
+point: 2.00 4.00
+area: 20.00
+is rhombus: yes
+is rectangle: no
+-------------------------
+point: 8.00 -4.00
+area: 20.00
+is rhombus: no
+is rectangle: no
+-------------------------
