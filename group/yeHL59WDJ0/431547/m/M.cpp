@@ -14,16 +14,16 @@ int main() {
     cin.tie(nullptr);
     cout.tie(nullptr);
 
-    int n;
+    ll n;
     cin >> n;
-    int one [n];
-    int two [n];
-    for (int i = 0; i < n; i++) cin >> one[i];
-    for (int i = 0; i < n; i++) cin >> two[i];
+    ll one [n];
+    ll two [n];
+    for (ll i = 0; i < n; i++) cin >> one[i];
+    for (ll i = 0; i < n; i++) cin >> two[i];
 
     int sum = 0;
-    for (int i = 0; i < n ; i++) {
-        for (int j = 0; j < n; j ++) {
+    for (ll i = 0; i < n ; i++) {
+        for (ll j = 0; j < n; j ++) {
             sum += min(abs(one[i]-one[j]), abs(two[i]-two[j]));
             // sum += min(abs(one[i]-one[j]), abs(one[j]-one[i]));
             // sum += min(abs(two[i]-two[j]), abs(two[j]-two[i]));
