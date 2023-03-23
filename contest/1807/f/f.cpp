@@ -17,6 +17,8 @@ void solve() {
     int d = 0; //大学问
     if (dir[0] == 'U') d ++;  // upper is always even
     if (dir[1] == 'R') d += 2; 
+
+
     bool vis[n][m][4];
     memset(vis, false, sizeof(vis));
     int i = x1, j = y1;

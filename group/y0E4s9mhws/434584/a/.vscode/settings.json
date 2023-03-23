@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "regex": "cpp",
+        "vector": "cpp",
+        "bitset": "cpp",
+        "forward_list": "cpp",
+        "future": "cpp",
+        "list": "cpp",
+        "random": "cpp",
+        "scoped_allocator": "cpp"
+    }
+}
