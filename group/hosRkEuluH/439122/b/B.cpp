@@ -1,5 +1,5 @@
 /*
- * Author: $%U%$
+ * Author: czzy
 **/
 
 #include <bits/stdc++.h>

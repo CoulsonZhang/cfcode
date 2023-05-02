@@ -1,5 +1,6 @@
 /*
- * Author: $%U%$
+ * Author: czzy
+ * Time: 2023-03-23 11:01:20
 **/
 
 #include <bits/stdc++.h>
@@ -8,7 +9,11 @@ using namespace std;
 typedef long long ll;
 
 void solve() {
-    
+    ll n;
+    cin >> n;
+    ll result = sqrt(n);
+    while (result * result < n) result += 1;
+    cout << result - 1 << '\n';
 }
 
 int main() {

@@ -1,5 +1,6 @@
 /*
- * Author: $%U%$
+ * Author: czzy
+ * Time: 2023-04-02 21:41:49
 **/
 
 #include <bits/stdc++.h>
@@ -16,10 +17,8 @@ int main() {
     cin.tie(nullptr);
     cout.tie(nullptr);
 
-    int time;
-    cin >> time;
-    for(int i = 0; i < time; i++)
-        solve();
-
+    // int time;
+    // cin >> time;
+    cout << "-1\n";
     return 0;
 }
